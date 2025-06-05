@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @EgwuSamuel
-- 👀 I’m interested in UI/UX Design, web development, mobile app development and machine learning
-- 🌱 I’m currently learning Graphics Design
-- 💞️ I’m looking to collaborate on Software Projects
+- 👀 I’m interested in computer vision
 - 📫 How to reach me : Gmail: egwusamuelonucheojosamuel@gmail.com, Phone Number: 09013793859
 
 <!---
